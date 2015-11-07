@@ -1,0 +1,5 @@
+﻿  Student Statistics.cpp
+Student Statistics.cpp(176): warning C4244: 'initializing' : conversion from 'time_t' to 'long', possible loss of data
+  Generating code
+  Finished generating code
+  Project 2.vcxproj -> C:\Users\Master\Desktop\Project 2\Release\Project 2.exe
